@@ -9,10 +9,15 @@ A simple game manager app with GUI, testing GUI MVC python (or as close as it ge
 
 ##Requirements
 Python >= 2.6
+
 SQLAlchemy >= 0.9.8
+
 ObjectListView >= 1.3.1
+
 lxml >=3.4.0
+
 beautifulsoup4 >= 4.3.2
+
 wxpython >= 3.0.1
 
 ##Installation
